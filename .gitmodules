@@ -1,0 +1,3 @@
+[submodule "PeoCoin/lib/forge-std"]
+	path = PeoCoin/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
