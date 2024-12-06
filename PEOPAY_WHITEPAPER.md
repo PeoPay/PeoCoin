@@ -98,7 +98,7 @@ PeoPay combines decentralized finance with mobile payment systems to create an a
 ---
 
 ### **10. Team**
-#### **Dan Otieno** – Visionary, Idea Creator, and CEO
+### **Dan Otieno** – Visionary, Idea Creator, and CEO
 - **Role**:
   - The driving force behind PeoPay’s mission to bridge traditional and decentralized finance.
   - Leads strategic partnerships and project development.
@@ -106,8 +106,8 @@ PeoPay combines decentralized finance with mobile payment systems to create an a
   - Advocates for sustainable blockchain adoption.
   - Builds collaborations with payment networks to ensure global scalability.
 
-#### **Daniil Krizhanovskyi** – Head of Decentralized Architecture (HDA)
-- **Role**:
+### **Daniil Krizhanovskyi** – Head of Decentralized Architecture (HDA)
+- ###Role:
   - Designs PeoPay’s secure and scalable technical architecture.
   - Integrates cryptographic protocols for blockchain and mobile payments.
 - **Key Contributions**:
