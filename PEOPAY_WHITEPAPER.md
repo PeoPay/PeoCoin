@@ -107,7 +107,7 @@ PeoPay combines decentralized finance with mobile payment systems to create an a
   - Builds collaborations with payment networks to ensure global scalability.
 
 ### **Daniil Krizhanovskyi** – Head of Decentralized Architecture (HDA)
-- ###Role:
+- ### Role:
   - Designs PeoPay’s secure and scalable technical architecture.
   - Integrates cryptographic protocols for blockchain and mobile payments.
 - **Key Contributions**:
