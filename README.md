@@ -96,5 +96,5 @@ This project is licensed under the GNU Gpl3 License. See the [LICENSE](LICENSE) 
 
 ## **Contact**
 For questions, issues, or contributions, please contact the team at:
-- **Website**: [peopay.io](https://peopay.netlify.app)
+- **Website**: [peopay.io](https:/peopay.io)
 - **Email**: support@peopay.io
